@@ -6,7 +6,7 @@
 <ul>
   <li>Sound Sensor</li>
   <li>PIR Motion Sensor</li>
-  <li>Button <strong>(RFID got burn so we had to resort to other methods)</strong>strong></li>
+  <li>Button <strong>(RFID got burnt so we had to resort to other methods)</strong>strong></li>
 </ul>
 
 <h3>Actuators</h3>
